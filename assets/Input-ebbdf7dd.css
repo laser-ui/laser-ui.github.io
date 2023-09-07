@@ -1,0 +1,1 @@
+#InputBasicDemo .l-input,#InputAffixDemo .l-input,#InputClearableDemo .l-input,#InputPasswordDemo .l-input,#InputNumberDemo .l-input,#InputSizeDemo .l-input{width:240px}#InputComposeDemo .l-compose{width:320px}#InputComposeDemo .l-input{flex:1 0 0;overflow:hidden}

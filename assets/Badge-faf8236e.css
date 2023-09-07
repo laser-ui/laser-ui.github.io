@@ -1,0 +1,1 @@
+#BadgeBasicDemo .badge,#BadgeThemeDemo .badge,#BadgeMaxDemo .badge,#BadgeTransitionDemo .badge,#BadgeOffsetDemo .badge{position:relative;display:inline-block;width:52px;height:52px;text-align:center;background:var(--l-background-color-primary);border-radius:var(--l-border-radius)}

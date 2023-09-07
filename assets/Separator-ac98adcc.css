@@ -1,0 +1,1 @@
+#SeparatorVerticalDemo .container{display:flex}#SeparatorVerticalDemo .container>div:first-child,#SeparatorVerticalDemo .container>div:last-child{flex:1 0 0}
