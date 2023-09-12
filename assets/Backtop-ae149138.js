@@ -1,0 +1,1 @@
+import{j as t}from"./index-c9808599.js";import{F as i}from"./Fab-e7f63ae4.js";import"./scrollTo-7eb1d801.js";import"./toPx-969afd9b.js";import"./add-22005b37.js";function p(){return t.jsx("div",{style:{height:"500vh"},children:t.jsx(i,{style:{position:"fixed",right:40,bottom:40,zIndex:910},children:t.jsx(i.Backtop,{shape:"circle"})})})}export{p as default};
