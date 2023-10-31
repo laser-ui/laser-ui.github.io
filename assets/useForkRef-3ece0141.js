@@ -1,0 +1,1 @@
+import{r,l as s}from"./index-f75626ca.js";function c(t,o){s.isFunction(t)?t(o):s.isObject(t)&&"current"in t&&(t.current=o)}function u(...t){return r.useCallback(o=>{t.forEach(n=>{c(n,o)})},[...t])}export{u};
