@@ -1,0 +1,1 @@
+function p(e,o){let f=e.offsetTop,s=e;for(;s.offsetParent!==o;)s=s.offsetParent,f+=s.offsetTop;const l=f;if(o.scrollTop>l)o.scrollTop=l;else{const t=f-o.clientHeight+e.offsetHeight;o.scrollTop<t&&(o.scrollTop=t)}}export{p as s};
